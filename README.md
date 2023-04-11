@@ -1,1 +1,1 @@
-A website containing quizes and minigames of vast categories. done using laravel. languages used: Php, JavaScript
+A quiz app done using Laravel (HTML, CSS, Javascript, PHP)
